@@ -3,9 +3,9 @@
 ### 🍀 MEMBER
 
 <table>
-    <td align="center"><a href="https://github.com/yeseul106"><img src="https://github.com/yeseul106.png" width="100px;" alt=""/><br /><sub><b>조예슬</b></sub></a><br />yeseul 🐰</a></td>
+    <td align="center"><a href="https://github.com/yeseul106"><img src="https://github.com/yeseul106.png" width="100px;" alt=""/><br /><sub><b>조예슬</b></sub></a><br />yeseul 🦁</a></td>
     <td align="center"><a href="https://github.com/jun02160"><img src="https://github.com/jun02160.png" width="100px;" alt=""/><br /><sub><b>박예준</b></sub></a><br />yejun 🐥</a></td>
-    <td align="center"><a href="https://github.com/thguss"><img src="https://github.com/thguss.png" width="100px;" alt=""/><br /><sub><b>김소현</b></sub></a><br />sohyeon 🐨</a></td>
+    <td align="center"><a href="https://github.com/thguss"><img src="https://github.com/thguss.png" width="100px;" alt=""/><br /><sub><b>김소현</b></sub></a><br />sohyeon 😼</a></td>
   </tr>
 </table>
 
